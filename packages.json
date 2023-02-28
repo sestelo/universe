@@ -1,0 +1,24 @@
+[
+    {
+        "package": "condsurv",
+        "url": "https://github.com/sestelo/condsurv"
+    },
+    {
+        "package": "npregfast",
+        "url": "https://github.com/sestelo/npregfast"
+    },
+    {
+        "package": "survidm",
+        "url": "https://github.com/sestelo/survidm"
+    },
+    {
+        "package": "clustcurv",
+        "url": "https://github.com/noramvillanueva/clustcurv"
+    },
+    {
+        "package": "fwdselect",
+        "url": "https://github.com/sestelo/fwdselect"
+    }
+]
+
+
