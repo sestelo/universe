@@ -1,6 +1,6 @@
 [
     {
-        "package": "condsurv",
+        "package": "condSURV",
         "url": "https://github.com/sestelo/condsurv"
     },
     {
@@ -16,7 +16,7 @@
         "url": "https://github.com/noramvillanueva/clustcurv"
     },
     {
-        "package": "fwdselect",
+        "package": "FWDselect",
         "url": "https://github.com/sestelo/fwdselect"
     }
 ]
